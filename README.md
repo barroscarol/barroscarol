@@ -4,7 +4,7 @@ Getting rid of bugs is my religion 🙆‍♀️
 
 
 
-I'm really into building strong designing Software, I'm always up to working  and learn new technologies.
+I'm always up to working and learning new technologies.
 
 Skills: JAVA  / SPRING  /  PL/SQL  /  HTML  /  CSS / SCRUM
 
