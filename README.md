@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Carol
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### <Software Enginner | Backend Developer>
 Getting rid of bugs is my religion 🙆‍♀️
 
